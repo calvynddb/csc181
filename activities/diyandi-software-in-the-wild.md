@@ -83,11 +83,13 @@ You may include **one screenshot** or reference image only if it does not contai
 <!-- Example Markdown image syntax:
 ![Brief description of screenshot](path/to/image.png)
 -->
-![PWA MAP PROOF OF CONCEPT https://github.com/reyemtm/pwa-maps](workspaces/csc181/PWA MAP.png)
+[PWA MAP PROOF OF CONCEPT https://github.com/reyemtm/pwa-maps] (workspaces/csc181/PWA MAP.png)
 
 **External sources used, if any:**  
 [1] https://www.facebook.com/share/p/1DijJQeeMx/ - DIYANDI FESTIVAL 2026 CALENDAR OF ACTIVITIES PUBLICATION
+
 [2] https://www.facebook.com/share/1ZTSfhH2em/ - CONGESTION IN THE GRAND OPENING SALVO OF DIYANDI FESTIVAL
+
 [3] https://www.facebook.com/share/p/19FYpVtK1N/ - ADVISORY SLATE OF NO SIGNAL IN THE CITY OF ILIGAN
 
 ---
