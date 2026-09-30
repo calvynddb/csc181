@@ -19,7 +19,7 @@ These attendees need a reliable as well as accessible way to plan which events t
 ## 2. Situation or need
 
 **What is this group trying to do during Diyandi?**  
-To be able to make informed decisions about whether they should attend or at least be aware of the 137 scheduled activities of the festival [1]. They want to be able to locate temporary first aid facilities, avoid suffocating crowds, and effortlessly explore the densly packed venues like the Anahaw Amphitheater or Aguinaldo St. in parades.
+To be able to make informed decisions about whether they should attend or at least be aware of the 137 scheduled activities of the festival [1]. They want to be able to locate temporary first aid facilities, avoid suffocating crowds, and effortlessly explore the densely packed venues like the Anahaw Amphitheater or Aguinaldo St. in parades.
 
 ---
 
