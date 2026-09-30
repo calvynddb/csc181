@@ -57,7 +57,7 @@ Identify **two qualities** that would make your proposed system useful. You may 
 ### Quality 1: Accessible Real-Time Convenience
 
 **Why does this matter to users?**  
-Live updates on ongoing events and crowd density remove the anxiety of navigating blind and maximize enjoyment.
+Live updates on ongoing events and crowd density remove the anxiety of navigating blind and guide decisions.
 
 ### Quality 2: Offline Emergency Reliability
 
