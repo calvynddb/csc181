@@ -83,7 +83,10 @@ You may include **one screenshot** or reference image only if it does not contai
 <!-- Example Markdown image syntax:
 ![Brief description of screenshot](path/to/image.png)
 -->
-![PWA MAP PROOF OF CONCEPT https://github.com/reyemtm/pwa-maps](activities/PWA%20MAP.png)
+
+![PWA MAP PROOF OF CONCEPT](PWA_MAP.png)
+
+https://github.com/reyemtm/pwa-maps
 
 **External sources used, if any:**  
 [1] https://www.facebook.com/share/p/1DijJQeeMx/ - DIYANDI FESTIVAL 2026 CALENDAR OF ACTIVITIES PUBLICATION
