@@ -26,8 +26,9 @@ To be able to make informed decisions about whether they should attend or at lea
 ## 3. Problem or inconvenience
 
 **What may make this task difficult, confusing, unsafe, slow, or inconvenient?**
-  
+
 The published LGU calendar is confusing and I feel that it underrepresents the 137 actual scheduled events. Additionally, unpredictable crowd density at venues like the Anahaw Amphitheater often deters my friends and me from attending. Furthermore, NTC-mandated mobile network shutdowns during parades [3] disable standard mapping apps, making it difficult to locate first-aid and police outposts offline.
+
 ---
 
 ## 4. Proposed digital solution
@@ -82,9 +83,12 @@ You may include **one screenshot** or reference image only if it does not contai
 <!-- Example Markdown image syntax:
 ![Brief description of screenshot](path/to/image.png)
 -->
+![PWA MAP PROOF OF CONCEPT https://github.com/reyemtm/pwa-maps](workspaces/csc181/PWA MAP.png)
 
 **External sources used, if any:**  
-[Add links or citations here. If you did not use any external sources, write: None.]
+[1] https://www.facebook.com/share/p/1DijJQeeMx/ - DIYANDI FESTIVAL 2026 CALENDAR OF ACTIVITIES PUBLICATION
+[2] https://www.facebook.com/share/1ZTSfhH2em/ - CONGESTION IN THE GRAND OPENING SALVO OF DIYANDI FESTIVAL
+[3] https://www.facebook.com/share/p/19FYpVtK1N/ - ADVISORY SLATE OF NO SIGNAL IN THE CITY OF ILIGAN
 
 ---
 
@@ -92,7 +96,7 @@ You may include **one screenshot** or reference image only if it does not contai
 
 Select **one** option below and complete the applicable details.
 
-- [✔] **No AI tools used.** I did not use any generative AI tool in preparing this submission.
+- [x] **No AI tools used.** I did not use any generative AI tool in preparing this submission.
 
 - [ ] **AI tools used.** I used the following AI tool(s): [Write tool name(s), e.g., ChatGPT, Gemini, Copilot].
 
