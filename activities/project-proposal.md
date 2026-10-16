@@ -68,7 +68,7 @@ MSU-IIT students who need a spot to study have difficulty finding one when libra
 
 ### Proposed solution
 
-	ChairUp is a mobile web app that helps MSU-IIT students and faculty find a place to study between classes. Using copies of the CCS building's room schedules, it shows which classrooms are free at a chosen time and how long each will stay free, and it lists rooms about to become vacant so users can plan their trip. Users can filter rooms by comfort tags such as aircon, quiet, outlets, and shade, and can report a room as occupied when the schedule is wrong. A directory of study spots like the library, Meow Meow Park, and CCCM is also included, with comfort tags, hours, and locations but no vacancy status. This addresses the problem by replacing guesswork with schedule-based information, so students can find a suitable room without competing for library tables or waiting in the heat.
+ChairUp is a mobile web app that helps MSU-IIT students and faculty find a place to study between classes. Using copies of the CCS building's room schedules, it shows which classrooms are free at a chosen time and how long each will stay free, and it lists rooms about to become vacant so users can plan their trip. Users can filter rooms by comfort tags such as aircon, quiet, outlets, and shade, and can report a room as occupied when the schedule is wrong. A directory of study spots like the library, Meow Meow Park, and CCCM is also included, with comfort tags, hours, and locations but no vacancy status. This addresses the problem by replacing guesswork with schedule-based information, so students can find a suitable room without competing for library tables or waiting in the heat.
 
 ## 4\. Stakeholder List
 
