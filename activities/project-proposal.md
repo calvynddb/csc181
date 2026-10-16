@@ -15,8 +15,6 @@
 
 ## 1\. Brainstorming Record
 
-\[Record at least two problem ideas per member. Add rows as needed. Identify whether each idea is based on experience, observation, a source, or an assumption.\]
-
 | Member | Problem or inconvenience | Who experiences it? | Current approach | Basis of the idea |
 | :---- | :---- | :---- | :---- | :---- |
 | Azur, Kurt Renzo H. | Laundry drop-off and pickup customers don’t know if their laundry is done or when it will be delivered. | Laundry shop customers using drop-off, pickup, or delivery service. | Customers keep going back to the shop to ask whether their laundry is washing, drying, or ready. | It is based on the assumption that delays from heavy order volume or brownouts may make completion times unpredictable, so customers make wasted trips. |
@@ -70,13 +68,9 @@ MSU-IIT students who need a spot to study have difficulty finding one when libra
 
 ### Proposed solution
 
-\[Write one short paragraph describing your proposed digital solution and how it addresses the problem.\]
-
 	ChairUp is a mobile web app that helps MSU-IIT students and faculty find a place to study between classes. Using copies of the CCS building's room schedules, it shows which classrooms are free at a chosen time and how long each will stay free, and it lists rooms about to become vacant so users can plan their trip. Users can filter rooms by comfort tags such as aircon, quiet, outlets, and shade, and can report a room as occupied when the schedule is wrong. A directory of study spots like the library, Meow Meow Park, and CCCM is also included, with comfort tags, hours, and locations but no vacancy status. This addresses the problem by replacing guesswork with schedule-based information, so students can find a suitable room without competing for library tables or waiting in the heat.
 
 ## 4\. Stakeholder List
-
-\[Identify at least four relevant stakeholder roles or groups. If fewer are relevant, explain why below the table. Anticipated needs are not confirmed feedback.\]
 
 | Stakeholder role/group | Relationship to the project | Likely need or concern | Question to ask | Possible consultation method |
 | :---- | :---- | :---- | :---- | :---- |
@@ -84,8 +78,6 @@ MSU-IIT students who need a spot to study have difficulty finding one when libra
 | Department Secretary/ Officer assigned in Room Scheduling | Operator/Maintainer | They will be concerned if a system forces them to manually input class schedules in the system one by one. | How are classroom assignments tracked when a professor reschedules to a different room ? Are the changes immediately reflected in the master list or is it mostly handled verbally between students and professor?  | Short in-person interview |
 | Instructors/ Professors  | Affected Non-Users | Professors need to  start classes on time without having to wait for occupying students who are not under his/her class to pack-up and leave. | How do you handle situations when you arrive in a room occupied by students who are not in your class?  | Short in-person interview |
 | Department Chair/ College Dean | Sponsor/Regulator/Data Owner | They need to ensure classrooms are maintained, secured, and prevent laboratories from misuse. | What university rules, privacy policies and security concerns do we need to consider before we make classroom availability visible to the general student public ?   | Visit and inquire in College Department/ Dean’s Office |
-
-Stakeholder-count explanation, if needed: \[Explanation or Not applicable.\]
 
 ## 5\. Initial Scope
 
@@ -95,8 +87,6 @@ ChairUp is intended for undergraduate and graduate students who need a place to 
 
 ### In-scope capabilities
 
-\[Describe 3–5 specific capabilities as actions users can perform.\]
-
 1. Users can select a time and see which CCS classrooms are free according to the schedule, together with how long each room stays free, so that they know whether the room is worth walking to.  
 2. Users can view rooms that are about to become vacant along with the time remaining before the current class ends, so that they can plan their movement before the room opens up.  
 3. Users can report a room as occupied whenever the schedule shows it as free but it is actually in use, so that other students are warned before they make the same trip.  
@@ -104,8 +94,6 @@ ChairUp is intended for undergraduate and graduate students who need a place to 
 5. Users can browse a directory of study spots such as the library, Meow Meow Park, and CCCM to see their comfort tags, hours, and location, while no vacancy or occupancy status is shown for these venues because they have no fixed schedule to base it on.
 
 ### Out-of-scope capabilities
-
-\[Identify at least three features, integrations, services, or settings excluded from this semester's version.\]
 
 1. Live or predicted crowd heat maps are excluded because they depend on an active userbase or verified traffic data, and neither is available to the team this semester.  
 2. Vacancy or occupancy status for venues without fixed schedules, such as the library, lounges, Meow Meow Park, CCCM, and other establishments, is excluded because any figure shown would be a guess.  
@@ -116,13 +104,9 @@ ChairUp is intended for undergraduate and graduate students who need a place to 
 
 ### Expected deliverables
 
-\[List the planned outputs, such as a working prototype, documentation, and testing evidence.\]
-
 The team plans to deliver a working mobile web prototype covering the five in-scope capabilities, together with requirements and design documentation that includes user stories, wireframes, and the system design. The team will also provide test cases with their results, a usability test conducted with the prospected student participants, and the CCS classroom schedule dataset used in the pilot with the means of which on how it was obtained.
 
 ### Constraints
-
-\[Identify at least two constraints.\]
 
 | Constraint | Effect on the project | How the team will respond |
 | :---- | :---- | :---- |
@@ -132,8 +116,6 @@ The team plans to deliver a working mobile web prototype covering the five in-sc
 
 ### Assumptions and dependencies
 
-\[Identify at least two assumptions or dependencies and how to check them.\]
-
 | Assumption or dependency | Why it matters | How to check or address it |
 | :---- | :---- | :---- |
 | The team can obtain class schedules for the CCS rooms from the department heads or the Dean’s Office. | The vacancy feature cannot work without this data, so the whole prototype depends on it. | The team will request the data early through a letter to the dean or the department heads and will narrow the pilot to the rooms on the 2nd and 3rd floor of the CCS building. |
@@ -141,8 +123,6 @@ The team plans to deliver a working mobile web prototype covering the five in-sc
 | Users have smartphones with campus Wi-Fi or mobile data. | The prototype that we are envisioning runs on a mobile browser and cannot be used without a connection. | The team will include a connectivity question in the initial survey and test the prototype on devices that users would commonly use. |
 
 ### Success indicators
-
-\[Describe two observable indicators and how each could be evaluated. Do not report results that have not been collected.\]
 
 | Success indicator | Proposed evaluation method |
 | :---- | :---- |
@@ -169,8 +149,6 @@ The CCS schedules may not match what actually happens in the rooms, because of c
 
 ## 7\. Member Contribution Record
 
-\[Record actual contributions, including ideas, discussion, analysis, drafting, checking feasibility, and reviewing the final document.\]
-
 | Member | Ideas or analysis contributed | Drafting or review contribution |
 | :---- | :---- | :---- |
 | James Ralf P. Canonigo | I contributed three problem ideas in the brainstorming record: the lack of a lost-and-found at crowded Iligan events like the Diyandi festival, jeepneys skipping stops during rush hour, and the damaged Tambacan hanging bridge. Joined the team discussion in narrowing down to the study spot problem. | I drafted the Proposed Solution (Section 3\) and Section 6 (Review and Next Steps), including the change made after review, the biggest remaining risk, and the three unanswered questions. Reviewed the proposal for consistency between Sections 2, 3, and 5 and helped update Section 2 to match the narrowed scope. |
@@ -189,8 +167,6 @@ Select one option:
 
 - [ ] No generative AI tools were used by any member in preparing this submission.  
 - [x] One or more members used generative AI tools. Details are provided below.
-
-\[If AI was used, complete the table. If not, write Not applicable.\]
 
 | Member who used AI | Tool | Purpose and sections assisted | How output was checked or revised |
 | :---- | :---- | :---- | :---- |
